@@ -1,0 +1,11 @@
+<resources>
+    <string name="app_name">NameDetective</string>
+    <string name="title">Name Detective</string>
+    <string name="hero">Name Detective is a simple mobile application that will allow you to find out what country a given name belongs to.</string>
+    <string name="go_search">Investigate</string>
+    <string name="search">Enter a name and investigate it\'s origins</string>
+    <string name="card_input">Enter a name</string>
+    <string name="card_input_placeholder">Rust</string>
+    <string name="search_history_header">Your search results:</string>
+    <string name="drawer_title">NAME DETECTIVE</string>
+</resources>
